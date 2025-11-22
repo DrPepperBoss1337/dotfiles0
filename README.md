@@ -8,15 +8,15 @@ Float: Yes
 ---
 ## Other
 Plugins: 
-cat walk ( displays cpu usage )
-KDE Music Bar
+- cat walk ( displays cpu usage )
+- KDE Music Bar
 
 ## Style and theme.
-Application Style: Breeze
-Colors: Arc Dark
-Plasma-Style: KDE Story
-Windows Decoration: Sweet Dark ( from sweet-kde )
-Icons: WE10X-Black ( windows 10 icons. )
-Cursor: whatever you'd like i use breeze light.
-Splash screen:: Kuro
-SDDM/Login Screen: Breeze
+- Application Style: Breeze
+- Colors: Arc Dark
+- Plasma-Style: KDE Story
+- Windows Decoration: Sweet Dark ( from sweet-kde )
+- Icons: WE10X-Black ( windows 10 icons. )
+- Cursor: whatever you'd like i use breeze light.
+- Splash screen:: Kuro
+- SDDM/Login Screen: Breeze
